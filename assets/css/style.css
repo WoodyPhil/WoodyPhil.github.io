@@ -79,8 +79,8 @@ hr,
 
 /* Preloader */
 .t-preloader__spinner:not(:required):before {
-  border-top-color: #e0a80d;
-  border-bottom-color: #e0a80d;
+  border-top-color: #a4a5a6;
+  border-bottom-color: #a4a5a6;
 }
 
 /* Brand Colors */
